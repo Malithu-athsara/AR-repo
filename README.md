@@ -9,8 +9,3 @@ Status banner shows whether the marker is found or lost
 Team
 Malithu, Hansajith, Demika, Pulitha
 
-Credits
-3D model: "<model name>" by <author>, <link>, licensed under <CC0 / CC-BY 4.0>.
-
-Live demo
-<Netlify or GitHub Pages URL>
