@@ -9,3 +9,5 @@ Status banner shows whether the marker is found or lost
 Team
 Malithu, Hansajith, Demika, Pulitha
 
+Github pages link : 
+https://malithu-athsara.github.io/AR-repo/
